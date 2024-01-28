@@ -1,25 +1,17 @@
 # ts-room-reserved
+六角 TypeScript 30 天養成班 - 個人任務
+![Home_Page](https://i.imgur.com/8B2nBAA.png)
 
-This template should help get you started developing with Vue 3 in Vite.
+## Project Version
 
-## Recommended IDE Setup
+node version: v20.10.0
+vue 3
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Reference
+* [設計稿](https://www.figma.com/file/23VhjSXFWeZfXYXjcZOceb/%E5%85%AD%E8%A7%92-Project-%2F-%E9%85%92%E5%BA%97%E8%A8%82%E6%88%BF%E7%B6%B2%E7%AB%99?type=design&node-id=21-1459&mode=design&t=0YU3CJXUcpwLiCJZ-0)
+* [API Document](https://hexschool-video-course-api.onrender.com/swagger/)
+* [Image Source](https://github.com/hexschool/2022-web-layout-training/tree/main/typescript-hotel)
 
 ## Project Setup
 
