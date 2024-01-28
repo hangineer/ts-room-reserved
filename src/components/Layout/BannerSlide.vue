@@ -25,4 +25,4 @@
 </template>
 <!-- border-b-2 border-solid -->
 <!-- pb-1 bg-gradient-to-r from-primary-gradient to-white -->
-<script></script>
+<script setup lang="ts"></script>

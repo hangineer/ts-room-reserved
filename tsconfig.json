@@ -12,6 +12,12 @@
     }
   ],
   "compilerOptions": {
+    // 為了解決編譯時 'Cannot find module '@/...' 問題
+    "paths": {
+      "@/*": [
+        "./src/*",
+      ]
+    },
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
     /* Projects */

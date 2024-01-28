@@ -18,4 +18,3 @@
     <p>© 享樂酒店 2023 All Rights Reserved.</p>
   </div>
 </template>
-<script></script>
